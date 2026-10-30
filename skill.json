@@ -1,0 +1,10 @@
+{
+  "name": "genpark-auto-annotator",
+  "version": "1.0.0",
+  "description": "GenPark Auto Annotator - Bounding box IoU / GIoU / DIoU geometry matcher, Fleiss' Kappa multi-annotator agreement scorer, and active learning uncertainty sampler with zero dependencies.",
+  "tools": [
+    "calculate_bbox_iou_and_giou",
+    "compute_inter_annotator_agreement_kappa",
+    "sample_active_learning_uncertainty"
+  ]
+}
